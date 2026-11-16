@@ -80,3 +80,9 @@ git commit -m "Add safe demos for SQL injection, XSS and CSRF"
 ## Next step
 
 [Step 02: Hash passwords properly](../step-02-hash-passwords-properly)
+
+<!-- ewoi:step -->
+---
+
+**Next:** [step-02-hash-passwords-properly](../step-02-hash-passwords-properly/) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/secure-web-development/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/secure-web-development) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->

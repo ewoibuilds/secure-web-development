@@ -96,3 +96,9 @@ git commit -m "Fix: limit how often notes can be saved"
 ## Next step
 
 You have finished the path. Run the same checks on one of your own Laravel projects, one fix and one test at a time.
+
+<!-- ewoi:step -->
+---
+
+**Next:** you finished the path: pick a project from [all free repos](https://github.com/ewoibuilds) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/secure-web-development/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/secure-web-development) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->

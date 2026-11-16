@@ -61,3 +61,9 @@ git commit -m "Add password hashing demo and tests"
 ## Next step
 
 [Step 03: Secure a Laravel app](../step-03-secure-a-laravel-app)
+
+<!-- ewoi:step -->
+---
+
+**Next:** [step-03-secure-a-laravel-app](../step-03-secure-a-laravel-app/) &nbsp;&middot;&nbsp; **Stuck?** [Ask with the "I am stuck" form](https://github.com/ewoibuilds/secure-web-development/issues/new/choose) &nbsp;&middot;&nbsp; **Helped?** Star [the repo](https://github.com/ewoibuilds/secure-web-development) and follow [Ewoi Builds](https://github.com/ewoibuilds).
+<!-- /ewoi:step -->
