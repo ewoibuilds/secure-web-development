@@ -24,9 +24,9 @@ Do the steps in order. Each folder matches one lesson and holds the finished cod
 
 | Step | Folder | Lesson | Your workspace |
 | --- | --- | --- | --- |
-| 01 | [`step-01-web-vulnerabilities-explained`](step-01-web-vulnerabilities-explained) | **Common web vulnerabilities, explained** (on ewoibuilds.com: `/lessons/web-vulnerabilities-explained`) | `~/ewoi-learning/security-basics` |
-| 02 | [`step-02-hash-passwords-properly`](step-02-hash-passwords-properly) | **Hash passwords properly** (on ewoibuilds.com: `/lessons/hash-passwords-properly`) | `~/ewoi-learning/laravel-app` |
-| 03 | [`step-03-secure-a-laravel-app`](step-03-secure-a-laravel-app) | **Secure a Laravel app** (on ewoibuilds.com: `/lessons/secure-a-laravel-app`) | `~/ewoi-learning/secure-notes` |
+| 01 | [`step-01-web-vulnerabilities-explained`](step-01-web-vulnerabilities-explained) | [Common web vulnerabilities, explained](https://ewoibuilds.com/lessons/web-vulnerabilities-explained) | `~/ewoi-learning/security-basics` |
+| 02 | [`step-02-hash-passwords-properly`](step-02-hash-passwords-properly) | [Hash passwords properly](https://ewoibuilds.com/lessons/hash-passwords-properly) | `~/ewoi-learning/laravel-app` |
+| 03 | [`step-03-secure-a-laravel-app`](step-03-secure-a-laravel-app) | [Secure a Laravel app](https://ewoibuilds.com/lessons/secure-a-laravel-app) | `~/ewoi-learning/secure-notes` |
 
 Everything here runs only on your own computer. Only test apps you own, or practice labs made for learning; testing other systems without written permission is illegal in most countries.
 

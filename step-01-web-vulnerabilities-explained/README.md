@@ -1,6 +1,6 @@
 # Step 01: Common web vulnerabilities, explained
 
-**Lesson:** **Common web vulnerabilities, explained** (on ewoibuilds.com: `/lessons/web-vulnerabilities-explained`)
+**Lesson:** [Common web vulnerabilities, explained](https://ewoibuilds.com/lessons/web-vulnerabilities-explained)
 
 **Your workspace:** `~/ewoi-learning/security-basics`
 

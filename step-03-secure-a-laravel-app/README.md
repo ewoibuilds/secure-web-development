@@ -1,6 +1,6 @@
 # Step 03: Secure a Laravel app
 
-**Lesson:** **Secure a Laravel app: a hands-on walkthrough** (on ewoibuilds.com: `/lessons/secure-a-laravel-app`)
+**Lesson:** [Secure a Laravel app: a hands-on walkthrough](https://ewoibuilds.com/lessons/secure-a-laravel-app)
 
 **Your workspace:** `~/ewoi-learning/secure-notes`
 

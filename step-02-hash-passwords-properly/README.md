@@ -1,6 +1,6 @@
 # Step 02: Hash passwords properly
 
-**Lesson:** **Hash passwords properly** (on ewoibuilds.com: `/lessons/hash-passwords-properly`)
+**Lesson:** [Hash passwords properly](https://ewoibuilds.com/lessons/hash-passwords-properly)
 
 **Your workspace:** `~/ewoi-learning/laravel-app` (the Laravel 13 app from "Your first Laravel route")
 
